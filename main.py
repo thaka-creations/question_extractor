@@ -2,8 +2,7 @@
 Main entry point for extracting questions from PDF files
 """
 
-from agents import Agent, Runner
-from extractor.client import extract_questions
+from extractor import extract_questions
 
 
 def main():
