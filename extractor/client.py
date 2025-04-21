@@ -9,7 +9,7 @@ model = "gpt-4.1-nano"
 # Instructions for the question extraction assistant
 # ------------------------------------------------------------
 assistant_instructions = """
-You are a specialized agent for extracting exam questions from PDF files.
+You are a specialized assistant for extracting exam questions from PDF files.
 
 TASK:
 - You will be provided with a file ID for a PDF.
